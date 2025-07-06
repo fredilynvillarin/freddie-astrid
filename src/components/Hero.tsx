@@ -10,7 +10,7 @@ const Hero = () => {
             You're invited to celebrate
           </p>
           <h1 className="text-6xl md:text-8xl font-light text-stone-800 mb-4 tracking-tight">
-            Freddie
+            Astrid
           </h1>
           <div className="flex items-center justify-center mb-4">
             <div className="w-12 h-px bg-stone-400"></div>
@@ -18,7 +18,7 @@ const Hero = () => {
             <div className="w-12 h-px bg-stone-400"></div>
           </div>
           <h1 className="text-6xl md:text-8xl font-light text-stone-800 mb-8 tracking-tight">
-            Astrid
+            Freddie
           </h1>
         </div>
         
