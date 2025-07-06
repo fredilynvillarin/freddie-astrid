@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="py-16 px-6">
       <div className="max-w-4xl mx-auto text-center">
         <h3 className="text-2xl font-light text-stone-800 mb-4">
-          Freddie & Astrid
+          Astrid & Freddie
         </h3>
         <p className="text-stone-600 mb-8 font-light">
           September 2026 • Location TBD
