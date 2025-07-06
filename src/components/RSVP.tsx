@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -25,7 +24,7 @@ const RSVP = () => {
   };
 
   return (
-    <section className="py-24 px-6 bg-white">
+    <section className="py-24 px-6">
       <div className="max-w-2xl mx-auto text-center">
         <h2 className="text-4xl md:text-5xl font-light text-stone-800 mb-8 leading-tight">
           We hope you'll join us

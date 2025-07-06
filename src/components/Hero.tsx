@@ -3,7 +3,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex items-center justify-center px-6 py-12 bg-gradient-to-b from-orange-50 to-orange-100">
+    <section className="min-h-screen flex items-center justify-center px-6 py-12">
       <div className="text-center max-w-4xl mx-auto">
         <div className="mb-8 animate-fade-in">
           <p className="text-stone-600 text-sm tracking-[0.2em] uppercase mb-6 font-light">

@@ -3,7 +3,7 @@ import React from 'react';
 
 const WeddingDetails = () => {
   return (
-    <section className="py-24 px-6 bg-white">
+    <section className="py-24 px-6">
       <div className="max-w-6xl mx-auto">
         <div className="grid md:grid-cols-2 gap-16 items-center">
           <div className="space-y-8">
