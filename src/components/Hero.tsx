@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="text-center max-w-4xl mx-auto">
         <div className="mb-8 animate-fade-in">
           <p className="text-stone-600 text-sm tracking-[0.2em] uppercase mb-6 font-light">
-            Together Forever
+            You're invited to celebrate
           </p>
           <h1 className="text-6xl md:text-8xl font-light text-stone-800 mb-4 tracking-tight">
             Freddie
